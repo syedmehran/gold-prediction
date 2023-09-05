@@ -1,1 +1,1 @@
-# gold-prediction
+# Gold & Silver Forecasting Model
