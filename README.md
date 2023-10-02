@@ -17,4 +17,3 @@ Questions we hope to answer:
 -	What does the price of gold look like in a year? What about in 2? What about tomorrow?
 -	What factors are highly associated with price volatility? 
 -	What other commodity prices are linked with that of gold? 
-![image](https://github.com/syedmehran/gold-prediction/assets/123191569/e6a49ae1-44bc-4e40-bd88-d9c5fc608d17)
