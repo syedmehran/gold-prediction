@@ -1,8 +1,7 @@
 # Gold & Silver Forecasting Model
 
 Data Set: Gold and Silver prices (2013-2023) https://www.kaggle.com/datasets/kapturovalexander/gold-and-silver-prices-2013-2023/code
-![image](https://github.com/syedmehran/gold-prediction/assets/123191569/9ed16e0c-cf43-4ef8-ac50-c067047cc4e9)
-
+=
 Learning Goals:
 
 -	Learn how to construct a predictive model 
